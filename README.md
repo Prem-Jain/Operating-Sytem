@@ -1,1 +1,1 @@
-# Operatig-Sytem
+# Operating-Sytem
